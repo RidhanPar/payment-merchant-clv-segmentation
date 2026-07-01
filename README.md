@@ -126,8 +126,6 @@ above it.
 
 ![Dashboard screenshot](screenshots/dashboard-overview.png)
 
-*(Screenshot placeholder. Run the app and replace this file with an actual capture.)*
-
 ## Assumptions worth arguing with
 
 - **1.8% take rate.** A real business should replace this with its actual blended net take rate.
